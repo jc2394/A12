@@ -15,11 +15,16 @@ body {
 main section {
 	width: 525px;
 	float: right;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
 }
 
 main aside {
 	width: 215px;
 	float: right;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 header{
@@ -31,8 +36,7 @@ header{
 
 main {
 	clear: left;
-	padding-left: 30px;
-	padding-right: 30px;
+	
 }
 
 main h1 {
