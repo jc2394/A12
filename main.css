@@ -12,7 +12,7 @@ body {
 	border: 3px solid #931420;
 	background-color: #fffded;
 }
-main section {
+.bodysection {
 	width: 525px;
 	float: right;
 	padding-right: 20px;
@@ -20,7 +20,7 @@ main section {
 	padding-bottom: 20px;
 }
 
-main aside {
+.bodyaside {
 	width: 215px;
 	float: right;
 	padding-top: 20px;
