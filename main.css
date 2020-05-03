@@ -11,6 +11,10 @@ body {
 	border: 3px solid #931420;
 	background-color: #fffded;
 }
+
+a:focus, a:hover {
+	font-style: italic;
+}
 section {
 	width: 525px;
 	float: right;
@@ -114,13 +118,13 @@ article img {
 	border: 1px solid black;
 
 footer {
-	clear: both;
 	background-color: #931420;
+	clear: both;
+
 }
 
 footer p {
 	text-align: center;
 	color: white;
-	padding-top: 1em;
-	padding-bottom: 1em;
+	padding: 1em 0;
 }
