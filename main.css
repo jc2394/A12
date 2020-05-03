@@ -54,9 +54,13 @@ main h2 {
 	padding-bottom: 0.25em;
 }
 
-main h3 {
+.bodyaside h3 {
 	font-size: 105%;
 	padding-bottom: 0.25em;
+}
+
+.bodyaside img {
+	padding-bottom: 1em;
 }
 
 main p{
